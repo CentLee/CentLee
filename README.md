@@ -1,4 +1,6 @@
 ### Hi Im iOS Developer CentLee
+- Identity <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
+
 
 - 🌱 I’m currently learning Architecture - RIBs , MVVM + CleanArchitecture 
 <!--

@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi Im iOS Developer CentLee
 
+- 🌱 I’m currently learning Architecture - RIBs , MVVM + CleanArchitecture 
 <!--
 **CentLee/CentLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

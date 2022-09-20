@@ -1,4 +1,4 @@
-# currently on a break ( ~ 22.10.3 )
+# currently on a break 
 
 ### Hi Im iOS Developer CentLee
 - Swift

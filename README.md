@@ -1,9 +1,10 @@
-# currently on a break 
+# Currently, I am working on a job transition to DevOps.
 
-### Hi Im iOS Developer CentLee
+### Server developer who loves iOS
 - Swift
-
-- I’m currently learning Architecture - MVVM + CleanArchitecture , TCA
-- I’m currently learning MultiThreads And Asynchronous (RxSwift, Combine, Async/Await)
+- javascript & Typescript
+- Kotlin
+- I’m currently learning Ops
+- I’m currently learning Server Dev - Kopring, nestjs-express
 
 

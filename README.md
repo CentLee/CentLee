@@ -4,7 +4,7 @@
 - Swift
 - javascript & Typescript
 - Kotlin
-- I’m currently learning Ops
+- I’m currently learning Ops - Kubernetes ArgoCD GithubActions Docker Docker-compose Fluentd ElasticSearch Kibana Cloud
 - I’m currently learning Server Dev - Kopring, nestjs-express
 
 

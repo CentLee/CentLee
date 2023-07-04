@@ -1,4 +1,4 @@
-# Currently, I am working on a job transition to DevOps.
+# Currently, I am working on a job transition to Backend Developer
 
 ### Server developer who loves iOS
 - Swift
